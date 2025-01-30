@@ -16,8 +16,9 @@ Comparing BLAST and sc-RNAseq results to explore the role of sequence similarity
 <br>
 
 ## Processing RNAseq results
-1. PCA of RNAseq results
+1. PCA and volcanoplot of RNAseq results
    - RNAseq_PCA.ipynb
+   - RNAseq_volcanoplot.ipynb
 
 2. Filtering Significantly Upreguated Genes that has Sequence Similarity
    - RNAseq_siggenes-Lihan.ipynb
