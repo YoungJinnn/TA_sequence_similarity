@@ -3,12 +3,13 @@ Comparing BLAST and sc-RNAseq results to explore the role of sequence similarity
 
 
 ## BLAST alignment comparison
-1. Download sequences
+1. Download and extract sequences
    - Download_sequence_py.ipynb
+   - Extract_mapped_sequence.ipynb
 
-3. Run BLAST
+2. Run BLAST
 
-4. Check genes in hits
+3. Check genes in hits
    - Check_Genes_in_hits_BLAST.ipynb
    - Check_Genes_in_hits_Carsten.ipynb
 
